@@ -1,9 +1,9 @@
 This is a working draft, forked off of the Code for America Code of Conduct.
 
-preambule
+Preamble
 =========
 
-WHY:
+## WHY:
 - so that everone benefits from collective effords
 - to use our combined skills most effectively
 - to help as many people as possible (economic, democratic, individual)
@@ -13,7 +13,7 @@ WHY:
 - bottom-up
 - doing the right things right (at the right time and place, for the right reasons)
 
-WHAT:
+## WHAT:
 - sharing: from knowledge, to ideas, to code, to apps, to platforms
 - connecting: ideas and people
 - uniformation
@@ -23,7 +23,7 @@ WHAT:
 - organize ourselves
 - efficient reuse
 
-HOW:
+## HOW:
 - build an array of solutions for common problems (like finding things, services, places)
 - open up data
 - visualizations
@@ -35,10 +35,10 @@ HOW:
 - channels for discussion and self-coordination (Slack, Github)
 - build community (contact all code fellows)
 
-codeofconduct
+Code of Conduct
 =============
 
-####Code for America's Code of Conduct
+### Code for America's Code of Conduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
