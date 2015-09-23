@@ -1,3 +1,5 @@
+This is a working draft, forked off of the Code for America Code of Conduct.
+
 codeofconduct
 =============
 
