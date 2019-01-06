@@ -4,7 +4,7 @@ Deze gedragscode is een fork van de Code for Europe en Code for America Code of 
 
 Feedback en suggesties worden zeer op prijs gesteld.
 
-- [Code for NL Why-How-What](why_how_what.md)
+- [Code for NL Waarom, Hoe, en Wat](waarom_hoe_en_wat_code_for_nl.md)
 
 - [Code for NL Gedragscode](gedragscode_code_for_nl.md)
 
