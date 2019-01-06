@@ -1,6 +1,10 @@
-This is a working draft, forked off of the Code for America Code of Conduct.
+Dit is een eerste opzet voor een gedragscode voor Code for NL.
 
-Preamble
+Deze gedragscode is een fork van de Code for Europe en Code for America Code of Conduct.
+
+Feedback en suggesties worden zeer op prijs gesteld.
+
+Preamble (overleg 2015 Code for NL + HelDev)
 =========
 
 ## WHY:
