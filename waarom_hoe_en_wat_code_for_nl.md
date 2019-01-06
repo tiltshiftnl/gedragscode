@@ -1,15 +1,25 @@
 Waarom, Hoe en Wat voor Code for NL
 ===================================
 
-### Waarom
+## Waarom
 
-#### Doelen
-- mensen in staat stellen de digitale overheid te controleren
-- mensen in staat stellen deel te nemen aan de digitale samenleving
-- mensen in staat stellen gebruik te maken van digitale middelen voor het algemeen belang
-- mensen in staat stellen zich te organiseren in het algemeen belang
+### de digitale overheid controleren
 
-### HOE
+#### Open code reviews
+- zodat er controle is op de kwaliteit van code
+
+### mensen in staat stellen de digitale overheid te controleren
+
+#### Open code reviews
+- zodat mensen snappen wat er geïmplementeerd is
+
+### mensen in staat stellen de digitale overheid te gebruiken
+
+#### overheden helpen bij het inzetten van techniek
+
+### ANBI organisaties ondersteunen met techniek
+
+### de digitale overheid meer open en eerlijk maken
 
 #### Open coördinatie / zelforganisatie / samenwerking / (hergebruik)
 - zodat zoveel mogelijk mensen worden geholpen (economisch, democratisch, individueel)
