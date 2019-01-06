@@ -3,6 +3,9 @@ Code for NL is een open en eerlijk netwerk van professionals. In het geval van i
 ### E-mail template voor melding van onbehoorlijk gedrag
 
 Onderwerp: Melding onbehoorlijk gedrag
+
 Ik wil melding maken van ongewenst en/of onbehoorlijk gedrag binnen Code for NL (naam, slack kanaal, datum).
+
 Ik ben bereikbaar via (contact informatie).
+
 Dank je wel.
