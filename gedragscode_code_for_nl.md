@@ -1,24 +1,22 @@
-Code of Conduct
-=============
+Gedragscode Code for NL
+=======================
 
-### Code for America's Code of Conduct
+Het Code for NL netwerk verwacht dat Code for NL activiteiten, evenementen, en digitale fora omgevingen zijn waar:
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+1. participanten zich veilig en gerespecteerd voelen.
+2. mensen hun identiteit vrijelijk kunnen uiten.
+3. alle ideeën, vaardigheden, en bijdragen gewaardeerd worden als inspiratie.
+4. wordt uitgegaan van verschillende achtergrond, en het ontdekken daarvan wordt aangemoedigd.
+5. wordt gezocht naar manieren waarop mensen zo productief mogelijk hun (al dan niet technische) vaardigheden en energie kunnen inzetten. Wij gebruiken daarvoor de taal van "ja/en" in plaats van "nee/maar".
+6. participanten worden aangespoord minstens zoveel te luisteren als praten.
+7. (digitaal) gereedschap wordt gemaakt dat open en vrij is voor publiek gebruik. Activiteiten die publieke doelen beogen, niet private belangen, worden geprioriteerd.
+8. prioriteit wordt gegeven aan toegang voor en inspraak van groepen wiens belang en mening in democratische processen vaak slecht gehoord worden.
+9. ervoor wordt gezorgd dat de samenstelling van de samenleving zo goed mogelijk vertegenwoordigd is in de planning, ontwerp, en implementatie van civic tech. (Voorbeelden zijn achterwege gelaten, maar kunnen hier op verzoek geëxpliciteerd worden.)
+10. belanghebbenden, vertegenwoordigers, en inhoudelijk experts actief worden betrokken bij besluitvorming.
+11. relaties en conversaties tussen participanten, overheden, en partners respectvol, gezamenlijk, en productief worden gehouden.
+12. mensen vrij zijn van discriminatie en ongewenst gedrag.
 
-1. Are a safe and respectful environment for all participants.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-6. Encourage members and participants to listen as much as they speak.
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups. 
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-12. Provide an environment where people are free from discrimination or harassment.
-
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+Bij overtreding van deze regels kan Code for NL mensen verzoeken om zich te verwijderen en/of niet langer deel te nemen aan de activiteiten, evenementen, en digitale fora van Code for NL.
 
 ####Code for America's Anti-Harassment Policy
 
