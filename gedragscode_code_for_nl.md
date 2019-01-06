@@ -18,7 +18,7 @@ Het Code for NL netwerk verwacht dat Code for NL activiteiten, evenementen, en d
 
 Bij overtreding van deze regels kan Code for NL mensen verzoeken om zich te verwijderen en/of niet langer deel te nemen aan de activiteiten, evenementen, en digitale fora van Code for NL.
 
-####Code for America's Anti-Harassment Policy
+### Code for America's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -44,7 +44,7 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
