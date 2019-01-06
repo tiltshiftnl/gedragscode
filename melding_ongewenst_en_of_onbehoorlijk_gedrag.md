@@ -1,4 +1,6 @@
-Code for NL is een open en eerlijk netwerk van professionals. In het geval van intimidatie, discriminatie en/of andere vormen van ongewenst en/of onbehoorlijk gedrag, verzoeken wij hiervan direct melding te maken bij Johan Groenen (secretaris Code for NL). Dit kan via e-mail op johan@codefor.nl of via Slack @johangroenen.
+Code for NL is een open en eerlijk netwerk van professionals.
+
+In het geval van intimidatie, discriminatie en/of andere vormen van ongewenst en/of onbehoorlijk gedrag, verzoeken wij hiervan direct melding te maken bij Johan Groenen (secretaris Code for NL). Dit kan via e-mail op johan@codefor.nl of via Slack @johangroenen.
 
 ### E-mail template voor melding van onbehoorlijk gedrag
 
