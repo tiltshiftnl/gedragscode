@@ -50,7 +50,7 @@ Waarom, Hoe en Wat voor Code for NL
 - creative commons
 - open source licenties
 
-#### Open discussie
+#### Open code review en andere discussies
 - meetups
 - Slack
 
