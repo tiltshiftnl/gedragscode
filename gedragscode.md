@@ -1,7 +1,7 @@
 TiltShift gedragscode
 =====================
 
-TiltShift verwacht dat de TiltShift (online) werkplaatsen, teams, en projecten omgevingen zijn waar:
+De TiltShift (online) werkplaatsen, teams, en projecten zijn omgevingen waar:
 
 1. mensen zich veilig en gerespecteerd voelen.
 2. mensen hun identiteit vrijelijk kunnen uiten.
