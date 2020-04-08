@@ -12,7 +12,7 @@ TiltShift verwacht dat de TiltShift (online) werkplaatsen, teams, en projecten o
 7. (digitaal) gereedschap wordt gemaakt dat open en vrij is voor publiek gebruik.
 8. projecten die publieke doelen beogen, niet private belangen, worden geprioriteerd.
 9. extra aandacht wordt gegeven aan inspraak van mensen en groepen wiens belang en mening in besluitvormingsprocessen vaak slecht gehoord worden.
-10. ervoor wordt gezorgd dat de samenstelling van de samenleving zo goed mogelijk vertegenwoordigd is in de planning, ontwerp, en implementatie van public tech.
+10. er naar wordt gestreefd dat de samenstelling van de samenleving goed vertegenwoordigd is bij het kiezen, ontwerpen, en implementeren van oplossingen.
 11. belanghebbenden, vertegenwoordigers, en inhoudelijk experts actief worden betrokken bij ontwerp en besluitvorming.
 12. relaties en conversaties tussen teamleden, opdrachtgevers, belanghebbenden, en andere partijen respectvol, gezamenlijk, en productief worden gehouden.
 13. mensen vrij zijn van discriminatie en ongewenst gedrag.
