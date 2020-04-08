@@ -10,7 +10,7 @@ TiltShift verwacht dat de TiltShift (online) werkplaatsen, teams, en projecten o
 5. wordt gezocht naar manieren waarop mensen zo productief mogelijk hun vaardigheden en energie kunnen inzetten. Wij gebruiken daarvoor de taal van "ja/en" in plaats van "nee/maar".
 6. mensen worden aangespoord minstens zoveel te luisteren als praten.
 7. oplossingen worden gemaakt die open zijn en vrij beschikbaar voor publiek gebruik.
-8. projecten die publieke doelen beogen, niet private belangen, worden geprioriteerd.
+8. projecten die het publieke belang dienen (versus private belangen) de voorkeur krijgen.
 9. extra aandacht wordt gegeven aan inspraak van mensen en groepen wiens belang en mening in besluitvormingsprocessen vaak slecht gehoord worden.
 10. er naar wordt gestreefd dat de samenstelling van de samenleving goed vertegenwoordigd is bij het kiezen, ontwerpen, en implementeren van oplossingen.
 11. belanghebbenden, vertegenwoordigers, en inhoudelijk experts actief worden betrokken bij ontwerp en besluitvorming.
