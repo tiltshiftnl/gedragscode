@@ -16,5 +16,3 @@ De TiltShift (online) werkplaatsen, teams, en projecten zijn omgevingen waar:
 11. belanghebbenden, vertegenwoordigers, en inhoudelijk experts actief worden betrokken bij ontwerp en besluitvorming.
 12. relaties en conversaties tussen teamleden, opdrachtgevers, belanghebbenden, en andere partijen respectvol, gezamenlijk, en productief worden gehouden.
 13. mensen vrij zijn van discriminatie en ongewenst gedrag.
-
-We verzoeken iedereen om van (vermoeden van) overtreding van deze regels melding te maken.
