@@ -17,4 +17,4 @@ De TiltShift (online) werkplaatsen, teams, en projecten zijn omgevingen waar:
 12. relaties en conversaties tussen teamleden, opdrachtgevers, belanghebbenden, en andere partijen respectvol, gezamenlijk, en productief worden gehouden.
 13. mensen vrij zijn van discriminatie en ongewenst gedrag.
 
-Bij overtreding van deze regels kan TiltShift mensen verzoeken om zich (tijdelijk) te verwijderen en/of niet langer deel te nemen.
+We verzoeken iedereen om van (vermoeden van) overtreding van deze regels melding te maken.
