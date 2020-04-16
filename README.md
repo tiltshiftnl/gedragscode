@@ -1,6 +1,8 @@
-Dit is een eerste opzet voor een gedragscode voor TiltShift werkplaatsen, teams, en projecten.
+Dit is een eerste opzet voor een gedragscode* voor TiltShift werkplaatsen, teams, en projecten.
 
 Feedback en suggesties worden zeer op prijs gesteld.
+
+<sup><sub>&#42; Deze gedragscode is een fork van de Code for NL gedragscode.</sub></sup>
 
 TiltShift gedragscode
 =====================
@@ -27,5 +29,3 @@ Onderwerp: Melding onbehoorlijk gedrag
 Ik maak melding van ongewenst en/of onbehoorlijk gedrag binnen TiltShift: (naam, locatie, datum).
 
 Ik ben bereikbaar via: (contactinformatie).
-
-<sup><sub>&#42; Deze gedragscode is een fork van de Code for NL gedragscode.</sub></sup>
