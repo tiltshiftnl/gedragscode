@@ -18,8 +18,14 @@ De TiltShift (online) werkplaatsen, teams, en projecten zijn omgevingen waar we 
 9. wordt gezocht naar manieren waarop mensen zo productief mogelijk hun vaardigheden en energie kunnen inzetten.
 10. relaties en conversaties tussen teamleden, opdrachtgevers, belanghebbenden, en andere partijen respectvol, gezamenlijk, en productief worden gehouden.
 
-- [TiltShift gedragscode](gedragscode.md)
+In het geval van intimidatie, discriminatie en/of andere vormen van ongewenst en/of onbehoorlijk gedrag, verzoeken wij hiervan direct melding te maken bij Joris Boeren (joris@tiltshift.nl) of Johan Groenen (johan@tiltshift.nl).
 
-- [Melding maken van ongewenst en/of onbehoorlijk gedrag](melding_ongewenst_en_of_onbehoorlijk_gedrag.md)
+### E-mail template voor melding van onbehoorlijk gedrag
+
+Onderwerp: Melding onbehoorlijk gedrag
+
+Ik maak melding van ongewenst en/of onbehoorlijk gedrag binnen TiltShift: (naam, locatie, datum).
+
+Ik ben bereikbaar via: (contactinformatie).
 
 <sup><sub>&#42; Deze gedragscode is een fork van de Code for NL gedragscode.</sub></sup>
