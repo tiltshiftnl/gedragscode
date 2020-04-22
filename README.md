@@ -12,7 +12,7 @@ We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (onl
 5. we niet de slimste willen zijn, maar betrokkenheid en interesse tonen;
 6. we daarom minstens zo veel luisteren als praten, en dat aanmoedigen;
 7. we mensen helpen hun vaardigheden en energie zo productief mogelijk in te inzetten;
-8. we waardering tonen voor ieders ideeën, vaardigheden en bijdragen, ten minste als inspiratie;
+8. we waardering tonen voor ieders ideeën, vaardigheden en bijdragen, in ieder geval als inspiratie;
 9. relaties en conversaties tussen teamleden, opdrachtgevers, belanghebbenden, en andere partijen altijf respectvol, gezamenlijk en productief worden gehouden;
 10. mensen open en eerlijk zijn, maar gesprekken ook in vertrouwelijkheid gevoerd kunnen worden;
 11. mensen voorzichtig en verantwoordelijk omgaan met vertrouwelijke, gevoelige en persoonlijke informatie.
