@@ -17,3 +17,5 @@ We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (onl
 10. mensen open en eerlijk zijn, maar gesprekken ook in vertrouwelijkheid gevoerd kunnen worden;
 11. mensen voorzichtig en verantwoordelijk omgaan met vertrouwelijke, gevoelige en persoonlijke informatie;
 12. we zo veel mogelijk samen werken.
+
+CC-BY-NC TiltShift 2020
