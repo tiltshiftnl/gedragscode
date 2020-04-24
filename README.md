@@ -19,3 +19,11 @@ We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (onl
 12. we zo veel mogelijk samen werken.
 
 CC-BY-NC TiltShift 2020
+
+---
+
+zie ook:
+
+https://github.com/TiltShiftNL/good-public-tech
+
+https://github.com/TiltShiftNL/design-principles
