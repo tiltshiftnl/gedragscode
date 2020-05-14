@@ -8,7 +8,7 @@ We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (onl
 1. mensen zich veilig en gerespecteerd voelen;
 2. mensen hun identiteit vrijelijk kunnen uiten;
 3. mensen vrij zijn van discriminatie en ongewenst gedrag;
-4. we uitgegaan van verschillende achtergronden, ziens- en denkwijzen, en het ontdekken daarvan aanmoedigen;
+4. we uitgaan van verschillende achtergronden, ziens- en denkwijzen, en het ontdekken daarvan aanmoedigen;
 5. we niet de slimste willen zijn, maar betrokkenheid en interesse tonen;
 6. we daarom minstens zo veel luisteren als praten, en dat aanmoedigen;
 7. we mensen helpen hun vaardigheden en energie zo productief mogelijk in te inzetten;
