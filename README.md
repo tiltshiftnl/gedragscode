@@ -1,9 +1,9 @@
-TiltShift is een design bedrijf voor good public tech. Wij willen een zakelijke familie zijn en op een prettige manier samen software maken. Daarom hebben we de onderstaande gedragscode opgesteld.
+TILTSHIFT is een design bedrijf voor good public tech. Wij willen een zakelijke familie zijn en op een prettige manier samen software maken. Daarom hebben we de onderstaande gedragscode opgesteld.
 
-TiltShift gedragscode
+TILTSHIFT gedragscode
 =====================
 
-We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (online) werkplaatsen, teams en projecten omgevingen zijn waarin:
+We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TILTSHIFT (online) werkplaatsen, teams en projecten omgevingen zijn waarin:
 
 1. mensen zich veilig en gerespecteerd voelen;
 2. mensen hun identiteit vrijelijk kunnen uiten;
@@ -18,12 +18,12 @@ We zorgen er samen met alle betrokkenen en aanwezigen voor dat de TiltShift (onl
 11. mensen voorzichtig en verantwoordelijk omgaan met vertrouwelijke, gevoelige en persoonlijke informatie;
 12. we zo veel mogelijk samen werken.
 
-CC-BY-NC TiltShift 2020
+CC-BY-NC TILTSHIFT 2020
 
 ---
 
 zie ook:
 
-https://github.com/TiltShiftNL/good-public-tech
+https://github.com/tiltshiftnl/good-public-tech
 
-https://github.com/TiltShiftNL/design-principles
+https://github.com/tiltshiftnl/design-principles
